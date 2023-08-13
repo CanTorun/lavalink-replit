@@ -1,3 +1,4 @@
+#KK-Bot Lavalink Server
 server: # REST and WS server
   port: 443
   address: 0.0.0.0
@@ -11,7 +12,7 @@ lavalink:
 #      repository: "repository"
   pluginsDir: "./plugins"
   server:
-    password: "maybeiwasboring"
+    password: "kkbot-"
     sources:
       youtube: true
       bandcamp: true
